@@ -1,0 +1,62 @@
+.name-logo{
+    color: rgb(0, 17, 255) !important;
+    font-weight: bold;
+}
+.nav-item .nav-link{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(0, 17, 255) !important;
+    transition: 0.4 ease;
+}
+.btn-download{
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgba(240, 248, 255, 0);
+    color: rgb(0, 17, 255) ;
+    border: 3px solid rgb(0, 17, 255);
+    transition: 0.8s ease;
+}
+.btn-download:hover{
+    color: #fff;
+    background-color:  rgb(0, 17, 255);
+}
+#home{
+    background: linear-gradient(rgb(243, 235, 235),rgb(243, 235, 235));
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100vh;
+}
+.caption{
+    font-weight: bold;
+    color: rgb(0, 17, 255);
+}
+.intro{
+    font-size: 20px;
+}
+#Download{
+    background: linear-gradient(rgb(243, 235, 235),rgb(243, 235, 235));
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: auto;
+}
+.title_download p{
+    font-size: 30px;
+    color: blueviolet;
+    font-weight: bold;
+}
+#setUp{
+    background: linear-gradient(rgb(243, 235, 235),rgb(243, 235, 235));
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: auto;
+}
+.title h4{
+    color: rgb(0, 17, 255) ;
+    font-weight: bold;
+}
+.title p{
+    color: rgb(0, 17, 255) ;
+    font-size: 16px;
+}
